@@ -1,0 +1,23 @@
+{
+  "name": "cinenamorada",
+  "version": "1.0.0",
+  "description": "Movies we watch over the years",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nietovaca/cinenamorada.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nietovaca/cinenamorada/issues"
+  },
+  "homepage": "https://github.com/nietovaca/cinenamorada#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
